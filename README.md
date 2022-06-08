@@ -12,10 +12,3 @@
 <a href="https://instagram.com/rehabzaki.1712?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/rehabzaki.1712?igshid=YmMyMTA2M2Y=" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rehabzaki.1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rehabzaki.1712" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehab732&show_icons=true&locale=en&layout=compact" alt="rehab732" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehab732&show_icons=true&locale=en" alt="rehab732" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehab732&" alt="rehab732" /></p>
