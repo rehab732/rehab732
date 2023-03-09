@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **FullStack Projects**
 
 - 📫 How to reach me **rehabzaki1712@gmail.com**
 
