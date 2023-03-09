@@ -10,4 +10,7 @@
 <br>
 <img align="center" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanmahmoud22&show_icons=true&locale=en&layout=compact" alt="hassanmahmoud22" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanmahmoud22&show_icons=true&locale=en" alt="hassanmahmoud22" /></p>
 
