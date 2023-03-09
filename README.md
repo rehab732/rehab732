@@ -1,6 +1,10 @@
 ### Hi there, I'm Rehab Mohamed 👋
 <h3 align="center">I’m a Mobile Developer</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;Mobile+Developer)](https://github.com/rehab732/)
 
+</div>
 
 - 🔭 I’m currently working on Mobile Development
 - 📫 How to reach me: rehabzaki1712@gmail.com
