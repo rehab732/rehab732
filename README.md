@@ -5,10 +5,6 @@
 
 </div>
 <br>
-<img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
-<br>
+<img align="center" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehab732&label=Profile%20views&color=0e75b6&style=flat" alt="rehab732" /> </p>
-
-<br>
 
