@@ -23,8 +23,8 @@
 <br>
 <br>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehab732&show_icons=true&locale=en&layout=compact" alt="rehab732" /></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehab732&show_icons=true&locale=en" alt="rehab732" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehab732&show_icons=true&locale=en" alt="rehab732" /></p>
+</div>
