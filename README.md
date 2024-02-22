@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehab Zaki</h1>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;Mobile+Developer)](https://github.com/rehab732/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Engineer;Software+Engineer)](https://github.com/rehab732/)
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
