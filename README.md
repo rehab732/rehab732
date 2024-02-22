@@ -12,9 +12,6 @@
 <br>
 
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **FullStack Projects**
-
+- 🌱 I’m currently Work at **ITI as a FullStack Developer**
 - 📫 How to reach me **rehabzaki1712@gmail.com**
 
